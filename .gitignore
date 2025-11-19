@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+*.apk
+
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Local properties
+local.properties
+
+# OS
+.DS_Store
