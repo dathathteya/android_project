@@ -2,6 +2,7 @@
 .gradle/
 build/
 *.apk
+.gradle-wrapper/
 
 # IDE
 .idea/
@@ -13,3 +14,7 @@ local.properties
 
 # OS
 .DS_Store
+
+# Large files
+*.zip
+*.jar
